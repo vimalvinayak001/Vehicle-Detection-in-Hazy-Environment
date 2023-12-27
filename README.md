@@ -1,4 +1,4 @@
-# Vehicle Detection in Hazy Environment
+# Vehicle Detection in Hazy Environment 
 
 An innovative solution for Vehicle Detection in Foggy/Hazy Environments by integrating YOLO V4, a state-of-the-art object detection model, after effective defogging of images. This approach significantly enhanced visibility and accuracy in adverse weather conditions.
 
